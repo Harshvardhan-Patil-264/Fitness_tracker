@@ -4,7 +4,7 @@ A modern, full-stack fitness tracking application built with the MERN stack (Mon
 
 ![Fitness Tracker](https://img.shields.io/badge/Fitness-Tracker-blue)
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ## ✨ Features
 
