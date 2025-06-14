@@ -4,7 +4,13 @@ A modern, full-stack fitness tracking application built with the MERN stack (Mon
 
 ![Fitness Tracker](https://img.shields.io/badge/Fitness-Tracker-blue)
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
+## 📹 Demo Video
 
+
+
+👉 [Click here to watch the demo video](https://drive.google.com/file/d/1FmwmLPQR9U5-wTZ5SEAY4WrEP_8DHtLg/view?usp=sharing)
+
+> **Note:** The video is hosted on Google Drive.
 
 ## ✨ Features
 
