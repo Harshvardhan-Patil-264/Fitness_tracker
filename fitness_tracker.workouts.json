@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6849c6c60f0fd86edab64be3"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "strength",
+  "duration": 60,
+  "caloriesBurned": 301,
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "exercises": [
+    {
+      "name": "Bench Press",
+      "sets": 3,
+      "reps": 12,
+      "weight": 80,
+      "_id": {
+        "$oid": "6849c6e90f0fd86edab64bfe"
+      }
+    }
+  ],
+  "notes": "Great workout session focusing on upper body",
+  "intensity": "medium",
+  "createdAt": {
+    "$date": "2025-06-11T18:11:18.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:11:53.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c7070f0fd86edab64c05"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "cardio",
+  "duration": 60,
+  "caloriesBurned": 300,
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "exercises": [
+    {
+      "name": "ww",
+      "sets": 3,
+      "reps": 15,
+      "weight": 80,
+      "_id": {
+        "$oid": "6849c7070f0fd86edab64c06"
+      }
+    }
+  ],
+  "notes": "www",
+  "intensity": "low",
+  "createdAt": {
+    "$date": "2025-06-11T18:12:23.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:12:23.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cd050f0fd86edab6500b"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "flexibility",
+  "duration": 124,
+  "caloriesBurned": 1111,
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "exercises": [
+    {
+      "name": "press",
+      "sets": 3,
+      "reps": 12,
+      "weight": 10,
+      "_id": {
+        "$oid": "6849cd0c0f0fd86edab65014"
+      }
+    }
+  ],
+  "notes": "111",
+  "intensity": "medium",
+  "createdAt": {
+    "$date": "2025-06-11T18:37:57.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:38:04.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849d68a054b6d0bc5f4172c"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "strength",
+  "duration": 123,
+  "caloriesBurned": 333,
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "exercises": [
+    {
+      "name": "press",
+      "sets": 3,
+      "reps": 15,
+      "weight": 80,
+      "_id": {
+        "$oid": "6849d68a054b6d0bc5f4172d"
+      }
+    }
+  ],
+  "notes": "",
+  "intensity": "medium",
+  "createdAt": {
+    "$date": "2025-06-11T19:18:34.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:18:34.145Z"
+  },
+  "__v": 0
+}]

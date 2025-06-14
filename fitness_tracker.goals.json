@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "6849c7890f0fd86edab64c19"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "weight_loss",
+  "target": 701,
+  "unit": "workouts",
+  "timeframe": "monthly",
+  "endDate": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "progress": 151,
+  "status": "active",
+  "description": "h",
+  "startDate": {
+    "$date": "2025-06-11T18:14:33.577Z"
+  },
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:14:33.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T12:26:21.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849ca180f0fd86edab64e4d"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "weight_loss",
+  "target": 13,
+  "unit": "workouts",
+  "timeframe": "monthly",
+  "endDate": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "progress": 100,
+  "status": "completed",
+  "description": "1",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:25:28.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:08:48.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849caa50f0fd86edab64e76"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "strength",
+  "target": 123,
+  "unit": "workouts",
+  "timeframe": "monthly",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-27T00:00:00.000Z"
+  },
+  "progress": 123,
+  "status": "completed",
+  "description": "1",
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:27:49.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:09:05.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cab50f0fd86edab64e93"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "calories_burned",
+  "target": 111,
+  "unit": "workouts",
+  "timeframe": "monthly",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-28T00:00:00.000Z"
+  },
+  "progress": 12,
+  "status": "active",
+  "description": "1we",
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:28:05.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T18:28:24.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cac40f0fd86edab64e98"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "endurance",
+  "target": 3333,
+  "unit": "reps",
+  "timeframe": "monthly",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-27T00:00:00.000Z"
+  },
+  "progress": 8,
+  "status": "active",
+  "description": "333",
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:28:20.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T10:18:05.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849cbe00f0fd86edab64f6e"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "strength",
+  "target": 11,
+  "unit": "workouts",
+  "timeframe": "monthly",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "progress": 100,
+  "status": "completed",
+  "description": "1",
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T18:33:04.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:08:48.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849d4881c16b3638af51522"
+  },
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "type": "calories_burned",
+  "target": 12,
+  "unit": "calories",
+  "timeframe": "monthly",
+  "startDate": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "progress": 100,
+  "status": "completed",
+  "description": "ww",
+  "milestones": [],
+  "createdAt": {
+    "$date": "2025-06-11T19:10:00.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T19:12:37.421Z"
+  },
+  "__v": 0
+}]

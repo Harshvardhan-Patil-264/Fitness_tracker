@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "6849c2d021c24daa24821107"
+  },
+  "title": "Stay Hydrated During Workouts",
+  "content": "Drink water before, during, and after your workout to maintain optimal performance and prevent dehydration.",
+  "category": "wellness",
+  "tags": [
+    "hydration",
+    "workout",
+    "health"
+  ],
+  "createdBy": {
+    "$oid": "6849c18021c24daa248210fd"
+  },
+  "isActive": true,
+  "priority": 8,
+  "targetAudience": "all",
+  "relatedWorkouts": [],
+  "createdAt": {
+    "$date": "2025-06-11T17:54:24.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:54:24.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849c3ca21c24daa24821112"
+  },
+  "title": "Proper Warm-up Techniques",
+  "content": "Always start your workout with 5-10 minutes of light cardio and dynamic stretching to prevent injuries and improve performance.",
+  "category": "exercise",
+  "tags": [
+    "warm-up",
+    "safety",
+    "performance"
+  ],
+  "createdBy": {
+    "$oid": "6849c18021c24daa248210fd"
+  },
+  "isActive": true,
+  "priority": 9,
+  "targetAudience": "all",
+  "relatedWorkouts": [],
+  "createdAt": {
+    "$date": "2025-06-11T17:58:34.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:58:34.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849dec8f76c91793e8e6751"
+  },
+  "title": "Stay Hydrated During Workouts",
+  "content": "Drink water before, during, and after your workout to maintain optimal performance and prevent dehydration.",
+  "category": "wellness",
+  "tags": [
+    "hydration",
+    "workout",
+    "health"
+  ],
+  "createdBy": {
+    "$oid": "6849c18021c24daa248210fd"
+  },
+  "isActive": true,
+  "priority": 8,
+  "targetAudience": "all",
+  "relatedWorkouts": [],
+  "createdAt": {
+    "$date": "2025-06-11T17:54:24.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:54:24.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c5686df4dec87574acde6"
+  },
+  "title": "test",
+  "content": "test",
+  "category": "wellness",
+  "tags": [
+    "11"
+  ],
+  "createdBy": {
+    "$oid": "6849c18021c24daa248210fd"
+  },
+  "isActive": true,
+  "priority": 0,
+  "targetAudience": "all",
+  "relatedWorkouts": [],
+  "createdAt": {
+    "$date": "2025-06-13T16:49:10.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T16:49:10.260Z"
+  },
+  "__v": 0
+}]

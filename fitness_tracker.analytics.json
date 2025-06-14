@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6849c04bb5c4540eaa83bf60"
+  },
+  "endDate": {
+    "$date": "2024-03-24T00:00:00.000Z"
+  },
+  "period": "weekly",
+  "user": {
+    "$oid": "6849bf0c2c7f39e2bb6b6691"
+  },
+  "startDate": {
+    "$date": "2024-03-18T00:00:00.000Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-11T17:43:39.568Z"
+  },
+  "goalStats": {
+    "totalGoals": 0,
+    "completedGoals": 0,
+    "failedGoals": 0,
+    "activeGoals": 0,
+    "averageProgress": 0
+  },
+  "performanceMetrics": {
+    "consistencyScore": 0,
+    "intensityScore": 0,
+    "progressScore": 0
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T17:43:39.568Z"
+  },
+  "workoutStats": {
+    "totalWorkouts": 0,
+    "totalDuration": 0,
+    "totalCaloriesBurned": 0,
+    "averageDuration": 0,
+    "averageCaloriesBurned": 0,
+    "workoutTypes": []
+  }
+}]
