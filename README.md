@@ -42,6 +42,24 @@ A modern, full-stack fitness tracking application built with the MERN stack (Mon
 - JWT Authentication
 - Mongoose ODM
 
+  
+## 🔑 Test Credentials
+
+### Admin Account
+```
+Username: admin
+Email: admin@example.com
+Password: admin123
+```
+
+### User Accounts
+```
+Username: testuser
+Email: test@example.com
+Password: password123
+
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -53,7 +71,7 @@ A modern, full-stack fitness tracking application built with the MERN stack (Mon
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fitness-tracker.git
+git clone https://github.com/Harshvardhan-Patil-264/fitness-tracker.git
 cd fitness-tracker
 ```
 
